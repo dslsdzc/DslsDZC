@@ -23,7 +23,7 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 
 *Most of my code is written with AI assistance.*
 
-*PS: [my favorite song](https://b23.tv/av80433022)*
+*PS: [more about me](https://b23.tv/av80433022)*
 
 ---
 
@@ -52,4 +52,4 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 
 *大部分代码是 AI 辅助编写的。*
 
-*附：[我最喜欢的歌](https://b23.tv/av80433022)*
+*附：[关于我](https://b23.tv/av80433022)*
