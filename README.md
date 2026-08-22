@@ -19,7 +19,7 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 - **DOCL** — a source-available license framework
 - **myideas** — personal ideas repo
 
-*Also: game engines and other rabbit holes I keep falling into.*
+*Also: game engines, Minecraft mods, and more.*
 
 ---
 
@@ -44,4 +44,4 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 - **DOCL** — 源码可得许可证框架
 - **myideas** — 个人想法库
 
-*另外：游戏引擎和其它我掉进去的兔子洞。*
+*另外：也折腾游戏引擎、Minecraft 模组这些。*
