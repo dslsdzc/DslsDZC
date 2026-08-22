@@ -21,6 +21,8 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 
 *Also: game engines, Minecraft mods, and more.*
 
+*Most of my code is written with AI assistance.*
+
 ---
 
 ### 你好，我是 DslsDZC 👋
@@ -45,3 +47,5 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 - **myideas** — 个人想法库
 
 *另外：也折腾游戏引擎、Minecraft 模组这些。*
+
+*大部分代码是 AI 辅助编写的。*
