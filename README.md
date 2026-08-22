@@ -51,3 +51,5 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 *另外：也折腾游戏引擎、Minecraft 模组这些。*
 
 *大部分代码是 AI 辅助编写的。*
+
+*附：[我最喜欢的歌](https://b23.tv/av80433022)*
