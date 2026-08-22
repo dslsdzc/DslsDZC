@@ -23,6 +23,8 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 
 *Most of my code is written with AI assistance.*
 
+*PS: [my favorite song](https://b23.tv/av80433022)*
+
 ---
 
 ### 你好，我是 DslsDZC 👋
