@@ -8,7 +8,7 @@ I build systems from scratch — kernels, languages, compressors, and the occasi
 - **[dz](https://github.com/dslsdzc/dz)** — LZ77-style compressor in C11
 - **[LCM](https://github.com/dslsdzc/LCM)** — multi-lattice codebook retrieval architecture
 - **[mosaic](https://github.com/dslsdzc/mosaic)** — lazy module runtime for Minecraft modding
-- **[rev-skills](https://github.com/dslsdzc/rev-skills)** — 112 reverse-engineering AI skills
+- **[rev-skills](https://github.com/dslsdzc/rev-skills)** — 121 reverse-engineering AI skills
 - **[a64tox64](https://github.com/dslsdzc/a64tox64)** — ARM64→x86-64 JIT translator
 - **[dslsde](https://github.com/dslsdzc/dslsde)** — terminal decompilation engine
 - **[omnivoice](https://github.com/dslsdzc/omnivoice)** — multi-agent collaboration system
